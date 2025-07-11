@@ -135,7 +135,7 @@ html {
 }
 
 .konten {
-  background-image: url(buu.jpg);
+  background-image: url(wall.jpg);
   padding: 10px 10px;
   width: 100%;
   height: auto;
@@ -236,7 +236,7 @@ footer {
 
 @media (max-width: 768px) {
   .konten {
-    background-image: url(tugumauk.jpeg);
+    background-image: url(wall2.jpg);
     padding: 10px 10px;
     width: 100%;
     height: auto;
