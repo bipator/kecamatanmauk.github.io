@@ -99,7 +99,7 @@ html {
   left: 50%;
   transform: translateX(-50%);
   display: flex;
-  gap: 50px;
+  gap: 40px;
   flex-wrap: wrap;
   justify-content: center;
 }
