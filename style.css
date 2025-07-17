@@ -197,19 +197,19 @@ footer {
   text-align: center;
 }
 
-@media (min-width: 768px) {
+@media (max-width: 768px) {
   .langkah {
     font-size: 14px;
   }
 }
 
-@media (min-width: 768px) {
+@media (max-width: 768px) {
   .brand-text {
     font-size: x-small;
   }
 }
 
-@media (min-width: 768px) {
+@media (max-width: 768px) {
   footer p {
     color:beige;
     font-weight: bold;
@@ -224,7 +224,7 @@ footer {
   }
 }
 
-@media (min-width: 768px) {
+@media (max-width: 768px) {
   body {
     padding: 0;
     width: 100%;
